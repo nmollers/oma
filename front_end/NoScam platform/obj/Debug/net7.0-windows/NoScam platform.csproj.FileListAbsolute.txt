@@ -1,0 +1,18 @@
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\bin\Debug\net7.0-windows\NoScam platform.exe
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\bin\Debug\net7.0-windows\NoScam platform.deps.json
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\bin\Debug\net7.0-windows\NoScam platform.runtimeconfig.json
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\bin\Debug\net7.0-windows\NoScam platform.dll
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\bin\Debug\net7.0-windows\NoScam platform.pdb
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\obj\Debug\net7.0-windows\NoScam platform.csproj.AssemblyReference.cache
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\obj\Debug\net7.0-windows\NoScam_platform.Form1.resources
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\obj\Debug\net7.0-windows\NoScam platform.csproj.GenerateResource.cache
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\obj\Debug\net7.0-windows\NoScam platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\obj\Debug\net7.0-windows\NoScam platform.AssemblyInfoInputs.cache
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\obj\Debug\net7.0-windows\NoScam platform.AssemblyInfo.cs
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\obj\Debug\net7.0-windows\NoScam platform.csproj.CoreCompileInputs.cache
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\obj\Debug\net7.0-windows\NoScam platform.dll
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\obj\Debug\net7.0-windows\refint\NoScam platform.dll
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\obj\Debug\net7.0-windows\NoScam platform.pdb
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\obj\Debug\net7.0-windows\NoScam platform.genruntimeconfig.cache
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\obj\Debug\net7.0-windows\ref\NoScam platform.dll
+C:\Users\NoahM\Documents\Vista Software Developer\Leerjaar 1\Oma\front_end\NoScam platform\obj\Debug\net7.0-windows\NoScam_platform.Form2.resources
